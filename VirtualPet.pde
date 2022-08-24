@@ -7,7 +7,7 @@ void setup()
 void draw()
 {
   background(255,255,255);
-  text(mouseX + ", " + mouseY, 10, 10);
+  //text(mouseX + ", " + mouseY, 10, 10);
   fill(0,0,0);
   quad(110, 80, 115, 55, 185, 55, 190, 80);
   quad(110, 80, 120, 105, 180, 105, 190, 80);
