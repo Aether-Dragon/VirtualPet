@@ -12,12 +12,13 @@ body {
 }
 
 header {
-	font-family: "Courier New", monospace;
 	color: rgb(232,249,255);
+	font-family: "Courier New", monospace;
 }
 
 footer {
 	font-style: italic;
 	font-size: 90%;
+	color: rgb(122,154,165);
 	
 }
